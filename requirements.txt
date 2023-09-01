@@ -1,0 +1,4 @@
+discord==2.2.2
+pandas==1.5.3
+dataframe_image==0.1.5
+httpx==0.23.3
